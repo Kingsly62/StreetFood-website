@@ -1,5 +1,6 @@
 li {
     display: inline;
+    text-align: center;
 }
 h1 {
     text-align: center;
@@ -21,4 +22,10 @@ button {
     color: black;
     padding-right: 20px;
     font-family: poppins;
+  }
+  h2{
+   color : light orange
+  }
+  h3{
+    text-align: center;
   }

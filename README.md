@@ -16,4 +16,4 @@ It is a site that enhances human satisfaction and grabs human attention.
 
 ## Copy and licence Information
 
-{Click Here}(https://opensource.org/licenses/MIT)
+[Click Here](https://opensource.org/licenses/MIT/)

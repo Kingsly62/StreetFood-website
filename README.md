@@ -15,3 +15,5 @@ It is a site that enhances human satisfaction and grabs human attention.
 [Click Here](https://kingsly62.github.io/StreetFood-website/)
 
 ## Copy and licence Information
+
+{Click Here}(https://opensource.org/licenses/MIT)

@@ -155,7 +155,7 @@ p {
 /* eat together section*/
 .eat-content {
  display: flex;
- max-width: 100%;gn
+ max-width: 100%;
  background:white;
  flex-direction: row;
  float: right;
@@ -165,7 +165,7 @@ p {
  width: 50%;
 }
 .eat {
- flex: 1;
+  display: flex;
  margin-left: 2rem;
  margin-bottom: .5rem;
  align-items: center;

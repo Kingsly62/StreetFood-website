@@ -629,3 +629,6 @@ p {
  color: #ffffff;
  padding-left: 9px;
  }
+ ul{
+   display: flex;
+ }

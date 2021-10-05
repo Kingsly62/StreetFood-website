@@ -155,10 +155,10 @@ p {
 /* eat together section*/
 .eat-content {
  display: flex;
- max-width: 100%;
+ max-width: 100%;gn
  background:white;
  flex-direction: row;
- float: none;
+ float: right;
 }
 .eat-content img {
  flex:1;

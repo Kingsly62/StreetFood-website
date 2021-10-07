@@ -74,3 +74,18 @@ ul li{
    display: flex;
    justify-content: space-between;
  }
+ .four{
+   background: #C9ECB5;
+ }
+ .deals{
+   display:;
+ }
+ .five{
+   background: #FFF5DD;
+ }
+ .Footers{
+   background: #F1FAEC;
+   display: flex;
+   position: relative;
+ }
+ 
